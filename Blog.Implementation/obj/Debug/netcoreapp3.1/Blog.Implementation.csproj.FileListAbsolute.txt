@@ -1,0 +1,32 @@
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.deps.json
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.dll
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.pdb
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.dll
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.pdb
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Application.dll
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.DataAccess.dll
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Domain.dll
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Application.pdb
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.DataAccess.pdb
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BlogASP\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.deps.json
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.dll
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.pdb
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Application.dll
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.DataAccess.dll
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Domain.dll
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Application.pdb
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.DataAccess.pdb
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csprojAssemblyReference.cache
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.AssemblyInfoInputs.cache
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.AssemblyInfo.cs
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csproj.CopyComplete
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.dll
+C:\Users\dacak\OneDrive\Radna površina\ASP_PROJEKAT\BlogASP-master\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.pdb
